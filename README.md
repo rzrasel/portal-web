@@ -1,2 +1,0 @@
-# portal-web
-portal-web
